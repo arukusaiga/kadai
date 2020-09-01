@@ -1,0 +1,5 @@
+F:\task\bin\Debug\task.exe.config
+F:\task\bin\Debug\task.exe
+F:\task\bin\Debug\task.pdb
+F:\task\obj\Debug\task.exe
+F:\task\obj\Debug\task.pdb
